@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+imgbb*.json
+replicate*.json
 
 # Editor directories and files
 .vscode/*

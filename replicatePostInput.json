@@ -1,1 +1,0 @@
-{"method":"POST","headers":{"Authorization":"Token r8_RRkpYETByhnVb9QLSlXFokgWKZWCOOP2CX2UI","Content-Type":"application/json"},"body":"{\"version\":\"50881b153b4d5f72b3db697e2bbad23bb1277ab741c5b52d80cd6ee17ea660e9\",\"input\":{\"image\":\"https://cdn.britannica.com/65/227665-050-D74A477E/American-actor-Leonardo-DiCaprio-2016.jpg\",\"prompt\":\"Who?\"}}"}
